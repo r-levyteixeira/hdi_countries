@@ -10,4 +10,4 @@ The data is available on ND-Gain website. For this project we used https://gain.
 
 # Disclaimer
 
-This work isn`t related to ND-Gain or IMF. This project should not be used to guide any public policy. This project was done out of curiosity about how different indicators might influence HDI and if it has a relationship with developed nations.
+This work isn't related to ND-Gain or IMF. This project should not be used to guide any public policy. This project was done out of curiosity about how different indicators might influence HDI and if their relationship with developed nations classification.
